@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		98F591042BE4EEBC00E224EE /* dihotom */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dihotom; sourceTree = BUILT_PRODUCTS_DIR; };
+		98F591042BE4EEBC00E224EE /* zolotesech */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = zolotesech; sourceTree = BUILT_PRODUCTS_DIR; };
 		98F591072BE4EEBC00E224EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		98F590FB2BE4EEBC00E224EE = {
 			isa = PBXGroup;
 			children = (
-				98F591062BE4EEBC00E224EE /* dihotom */,
+				98F591062BE4EEBC00E224EE /* zoloto */,
 				98F591052BE4EEBC00E224EE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		98F591052BE4EEBC00E224EE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				98F591042BE4EEBC00E224EE /* dihotom */,
+				98F591042BE4EEBC00E224EE /* zolotesech */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		98F591062BE4EEBC00E224EE /* dihotom */ = {
+		98F591062BE4EEBC00E224EE /* zoloto */ = {
 			isa = PBXGroup;
 			children = (
 				98F591072BE4EEBC00E224EE /* main.cpp */,
 			);
-			path = dihotom;
+			path = zoloto;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		98F591032BE4EEBC00E224EE /* dihotom */ = {
+		98F591032BE4EEBC00E224EE /* zolotesech */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 98F5910B2BE4EEBC00E224EE /* Build configuration list for PBXNativeTarget "dihotom" */;
+			buildConfigurationList = 98F5910B2BE4EEBC00E224EE /* Build configuration list for PBXNativeTarget "zolotesech" */;
 			buildPhases = (
 				98F591002BE4EEBC00E224EE /* Sources */,
 				98F591012BE4EEBC00E224EE /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = dihotom;
+			name = zolotesech;
 			productName = dihotom;
-			productReference = 98F591042BE4EEBC00E224EE /* dihotom */;
+			productReference = 98F591042BE4EEBC00E224EE /* zolotesech */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 98F590FF2BE4EEBC00E224EE /* Build configuration list for PBXProject "dihotom" */;
+			buildConfigurationList = 98F590FF2BE4EEBC00E224EE /* Build configuration list for PBXProject "zolotesech" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				98F591032BE4EEBC00E224EE /* dihotom */,
+				98F591032BE4EEBC00E224EE /* zolotesech */,
 			);
 		};
 /* End PBXProject section */
@@ -264,7 +264,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		98F590FF2BE4EEBC00E224EE /* Build configuration list for PBXProject "dihotom" */ = {
+		98F590FF2BE4EEBC00E224EE /* Build configuration list for PBXProject "zolotesech" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				98F591092BE4EEBC00E224EE /* Debug */,
@@ -273,7 +273,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		98F5910B2BE4EEBC00E224EE /* Build configuration list for PBXNativeTarget "dihotom" */ = {
+		98F5910B2BE4EEBC00E224EE /* Build configuration list for PBXNativeTarget "zolotesech" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				98F5910C2BE4EEBC00E224EE /* Debug */,
